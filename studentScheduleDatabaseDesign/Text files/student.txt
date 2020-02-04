@@ -1,0 +1,5 @@
+fn5583,Anshika,Sharma,Business Analytics,asharma84@horizon.csueastbay.edu,SPRING2021,I
+dv7467,Priyanka,Kushwaha,Business Analytics,pkushwaha@horizon.csueastbay.edu,FALL2020,I
+xf7587,Maitreyee,Das,Business Analytics,mdas6@horizon.csueastbay.edu,FALL2020,I
+rq5588,Abhisha,Burande,Business Analytics,aburande@horizon.csueastbay.edu,FALL2020,D
+ke9695,Nidhi,Patel,Business Analytics,npatel88@horizon.csueastbay.edu,SPRING2020,D

@@ -1,0 +1,13 @@
+BAN601,Technology Fundamentals for Analytics,graduate,3,NULL
+BAN602,Quantitative Fundamentals for Analytics,graduate,3,NULL
+BAN610,Database management and applications,graduate,3,BAN601
+BAN620,Data minning,graduate,3,BAN602
+BAN612,Data analytiys,graduate,3,BAN601
+BAN622,Data Warehousing and Business Intelligence,graduate,3,BAN610
+BAN630,Optimization Methods for Analytics,graduate,3,BAN602
+BAN632,Big Data Technology and Applications,graduate,3,BAN601
+BAN673,Time Series Analytics,graduate,3,BAN602
+BAN674,Machine Learning for Business Analytics,graduate,3,BAN620
+BAN675,Text Minning and Social Media Analytics,graduate,3,BAN620
+BAN676,Deep Learning for Business Applications,graduate,3,BAN602
+MGMT616,People Analytics,graduate,3,BAN612

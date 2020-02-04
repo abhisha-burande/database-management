@@ -1,0 +1,18 @@
+1530051126,Python for everybody,Charles Severance,Charles Severance 2016
+0071809252,Java: A Beginner's Guide 6th edition,Herbert Schildt,MC GrawHill Education
+9780387790534,Introductory Statistics with R (Statistics and Computing),Peter Dalgaard,Springer
+0136003915,Modern Database Management,Jeffrey A. Hoffer,Pearson
+1491901632,Hadoop the definitive guide,Tom White,O'Reilly 
+1118879368,Data Mining for Business Analytics: Concepts Techniques and Applications,Galit Shmueli,Wiley 2019
+9781491957653,Python for Data Analysis,Wes McKinney,O'Reilly Media Inc. 2012
+0080491022,Business Intelligence and Data Warehousing,Anu Singh,Narosa Publishing House 2012
+9780471915478,Practical methods for Optimization,Roger Fletcher,Wiley 1987
+1498734227,Time Series Analysis with R, Wayne A. Woodward,Wiley 2019
+1549617214,Machine learning for begginers,Oliver Theobald,Independently Published 2017
+9780596803346,Natural language process with Python:Speech and language processing,Steven Bird,O'Reilly Media
+0749484446,Predictive HR Analytics,Martin R. Edwards,Kogan Page Publishers 2019
+1782162151,Machine Learning with R,Brent Lantz,PACKT Publishing
+9781449374273,Data Science for Business,Foster Provost,O'Reilly Media
+9781617291388,R in Action,Robert Kabacoff,Manning Publishing
+013444633X,Statistics for business and Economics,James McClave,Pearson Education 2017
+0262035618,Deep learning for Business Applications,Ian Godfellow,MIT Press 2016

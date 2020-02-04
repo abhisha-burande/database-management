@@ -1,0 +1,11 @@
+1001,Jiming,Wu,jiming.wu@csueastbay.edu,VBT355,5001
+1002,Jyotishka,Ray,jyotishka.ray@csueastbay.edu,VBT343,5001
+1003,Zinovy,Radovilsky,zinovy.radovilsky@csueastbay.edu,VBT421,5002
+1005,Lan,Wang,lan.wang@csueastbay.edu,VBT345,5003
+1006,Surendra,Sarnikar,surendra.sarnikar@csueastbay.edu,VBT350,5001
+1007,YaunYaun,Gao,yaunyaun.gao@csueastbay.edu,VBT122,5002
+1008,Peng,Xie,peng.xie@csueastbay.edu,VBT325,5003
+1009,Balaraman,Rajan,balaraman.rajan@csueastbay.edu,VBT326,5002
+1010,Chongqi,wu,chongqi.wu@csueastbay.edu,VBT301,5003
+1011,Kaumaudi,Mishra,kaumaudi.mishra@csueastbay.edu,VBT357,5002
+1110,Arkady,Khodursky,arkady.khodursky@csueastbay.edu,VBT352,5003
